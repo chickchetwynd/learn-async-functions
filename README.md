@@ -29,3 +29,5 @@ Error handling is an important aspect of writing async functions. JavaScript pro
 ## Parallel Execution
 
 Async functions can be used to execute multiple asynchronous operations in parallel. This can greatly improve the performance of your code by leveraging the power of concurrency.
+
+adding some shit to the readme
