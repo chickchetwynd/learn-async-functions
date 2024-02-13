@@ -9,7 +9,6 @@ This repository contains notes on how to write async functions in JavaScript.
 - [Promises](#promises)
 - [Error Handling](#error-handling)
 - [Parallel Execution](#parallel-execution)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
